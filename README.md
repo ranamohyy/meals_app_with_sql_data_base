@@ -1,16 +1,27 @@
-# meals_app
+# 🍽️ Meals App with SQL Database
 
-A new Flutter project.
+Welcome to the **Meals App**, a Flutter application that allows users to browse, view, and manage delicious meals with the support of a local SQL database.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Browse a list of meals with names, descriptions, and ratings  
+- ✅ View meal details with images, time, and full info  
+- ✅ Add meals to the local SQLite database  
+- ✅ Retrieve and display meals using SQL queries  
+- ✅ Clean and modern UI using Flutter widgets  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- **Flutter** – UI development  
+- **Dart** – Programming language  
+- **SQLite** – Local database storage  
+- **sqflite** – Flutter plugin for SQLite  
+- **Material Design** – For clean and responsive UI
+
+---
+
+
